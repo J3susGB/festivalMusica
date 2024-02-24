@@ -11,6 +11,6 @@
 
 ### **`Información general:`**
 
-#### Proyecto realizado con HTML5, CSS y JavaScript usando Sass
+#### Proyecto realizado con HTML5, CSS y JavaScript usando Gulp y Sass
 
 ### *Hecho con ❤️ por Jesús Gómez Freelancer Web Developer⚡*
